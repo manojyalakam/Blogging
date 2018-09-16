@@ -1,5 +1,7 @@
 # Blogging
 
-Hi Im new to github
+Hi Im new to githu
 
 Feature_1
+updated from local
+
